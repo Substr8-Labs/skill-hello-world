@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Substr8 Labs",
   "skill_id": "cedb5411f3ef9809",
+  "skill_path": "/tmp/skill-hello-world",
   "sha256": "cedb5411f3ef98091fa2e609453426d0f5488487ce2b6aa4980c849d41a9d19a",
   "scripts_merkle_root": "d00f9a2e3b42d8a9d79088eb76a94d063c8108ddd6a0ffe6a6333f563b4b8889",
   "references_merkle_root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
