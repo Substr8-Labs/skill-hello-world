@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "author": "Substr8 Labs",
+  "skill_id": "cedb5411f3ef9809",
+  "sha256": "cedb5411f3ef98091fa2e609453426d0f5488487ce2b6aa4980c849d41a9d19a",
+  "signature": "0e212f68689a019d66572eeb839dafbc1fe3c0a1a9a29c82cbdd5f858046d7cce26420340461766d63661b9372459dd89173df592e459cdaf6ae9931dffe4a03",
+  "publicKey": "0d84d98b3de0a675e7d802cba14e504fdb19bc94aac9ce5ffc3b9a13dbbf40d0",
+  "signedAt": "2026-02-18T00:41:38.793163+00:00",
+  "verification": {
+    "tier1": true,
+    "tier2": true,
+    "tier2_recommendation": "approve",
+    "tier3": null
+  }
+}
